@@ -1,0 +1,1 @@
+This project is a computer vision application for object detection using a pre-trained deep learning model. The application is built using Python and OpenCV,  and pre-trained SSD MobileNet V3 model trained on the COCO dataset for object detection tasks.
